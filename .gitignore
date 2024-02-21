@@ -1,3 +1,9 @@
 *.zip
 logs
 venv
+output
+*.py
+build
+dist
+*.spec
+*.zip
